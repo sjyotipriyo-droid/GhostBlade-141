@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+build/
+dist/
+installer_output/
+Quarantine_Vault/
+.ghostblade_baseline.json
+*.spec
